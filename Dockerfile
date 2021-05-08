@@ -1,4 +1,4 @@
-FROM OxyNotOp/SECRETxUB:alpine
+FROM sany1709/catuserbot:alpine
 
 #clonning repo 
 RUN git clone https://github.com/OxyNotOp/SECRETxUB.git /root/userbot
